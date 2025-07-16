@@ -1,8 +1,6 @@
 #dfefi.github.io
-<!DOCTYPE html>
 <html lang="en"><head>
   <meta charset="UTF-8" />
-
   <title>Lal Bahdur Website</title>
   <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
   <style>
